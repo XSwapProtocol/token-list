@@ -275,6 +275,359 @@
         "canonicalUrl": "https://plugin.global/",
         "noindex": false
       }
+    },
+    {
+      "id": "wrapped-xdc",
+      "name": "Wrapped XDC",
+      "symbol": "WXDC",
+      "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/0x951857744785E80e2De051c32EE7b25f9c458C42/logo.png",
+      "shortDescription": "Wrapped XDC is the main wrapped XDC token for free 1:1 exchange between XDC and WXDC.",
+      "fullDescription": "Wrapped XDC was created by the XSwap Protocol team and became the main Wrapped XDC on the XDC Network within a short time. WXDC has no transfer fee and was created for free 1:1 exchange from XDC to WXDC and back, making native XDC easier to use in XRC20 smart contracts, DEX pools, and DeFi applications.",
+      "links": {
+        "website": "https://xspswap.finance/",
+        "github": "https://github.com/XSwapProtocol",
+        "twitter": "https://twitter.com/XSwapProtocol",
+        "telegram": "https://t.me/real_XSwapProtocol",
+        "explorer": "https://xdcscan.com/token/0x951857744785e80e2de051c32ee7b25f9c458c42"
+      },
+      "contractAddresses": {
+        "50": [
+          {
+            "name": "Wrapped XDC",
+            "address": "0x951857744785E80e2De051c32EE7b25f9c458C42",
+            "decimals": 18,
+            "symbol": "WXDC",
+            "type": "token"
+          }
+        ]
+      },
+      "media": {
+        "brandAssetsURI": "https://github.com/XSwapProtocol/xdc-token-list/tree/master/assets/0x951857744785E80e2De051c32EE7b25f9c458C42"
+      },
+      "isLaunched": true,
+      "featured": true,
+      "tags": [
+        "wrapped",
+        "native",
+        "xdc",
+        "xrc20",
+        "defi",
+        "xswap"
+      ],
+      "seo": {
+        "title": "Wrapped XDC - Main WXDC Token on XDC Network",
+        "description": "Wrapped XDC is the main wrapped XDC token for free 1:1 exchange between XDC and WXDC.",
+        "keywords": "Wrapped XDC, WXDC, XDC Network, XSwap Protocol, XRC20",
+        "ogImage": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/0x951857744785E80e2De051c32EE7b25f9c458C42/logo.png",
+        "ogType": "website",
+        "twitterCard": "summary_large_image",
+        "canonicalUrl": "https://xspswap.finance/",
+        "noindex": false
+      }
+    },
+    {
+      "id": "dog-with-a-purpose",
+      "name": "Dog with a Purpose",
+      "symbol": "DOPU",
+      "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/0x3fB46c4Db76d8E9f69F3F8388f43a7CA7E140807/logo.png",
+      "shortDescription": "Dog with a Purpose is a community memecoin built on the XDC Network.",
+      "fullDescription": "Dog with a Purpose, or DOPU, is a memecoin on the XDC Network. The project positions itself as a community-driven token for the XDC ecosystem, using the Dog with a Purpose brand to bring meme culture, DeFi users, and peer-to-peer payments into the network.",
+      "links": {
+        "website": "https://dopu.ai/",
+        "whitepaper": "https://dopu.ai/assets/dopu_whitepaper.pdf",
+        "twitter": "https://twitter.com/Dopu_Official",
+        "telegram": "https://t.me/dopuadogwithapurpose",
+        "explorer": "https://xdcscan.com/token/0x3fb46c4db76d8e9f69f3f8388f43a7ca7e140807"
+      },
+      "contractAddresses": {
+        "50": [
+          {
+            "name": "Dog with a Purpose Token",
+            "address": "0x3fB46c4Db76d8E9f69F3F8388f43a7CA7E140807",
+            "decimals": 18,
+            "symbol": "DOPU",
+            "type": "token"
+          }
+        ]
+      },
+      "media": {
+        "brandAssetsURI": "https://github.com/XSwapProtocol/xdc-token-list/tree/master/assets/0x3fB46c4Db76d8E9f69F3F8388f43a7CA7E140807"
+      },
+      "isLaunched": true,
+      "featured": false,
+      "tags": [
+        "meme",
+        "community",
+        "xdc",
+        "xrc20",
+        "defi"
+      ],
+      "seo": {
+        "title": "Dog with a Purpose - DOPU Memecoin on XDC Network",
+        "description": "Dog with a Purpose is a community memecoin built on the XDC Network.",
+        "keywords": "DOPU, Dog with a Purpose, XDC Network, memecoin, XRC20",
+        "ogImage": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/0x3fB46c4Db76d8E9f69F3F8388f43a7CA7E140807/logo.png",
+        "ogType": "website",
+        "twitterCard": "summary_large_image",
+        "canonicalUrl": "https://dopu.ai/",
+        "noindex": false
+      }
+    },
+    {
+      "id": "law-blocks",
+      "name": "Law Blocks",
+      "symbol": "LBT",
+      "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/0x05940B2dF33D6371201e7Ae099CeD4C363855dFE/logo.png",
+      "shortDescription": "Law Blocks is a legal-tech ecosystem powered by the LBT token on the XDC Network.",
+      "fullDescription": "Law Blocks is a legal-tech platform and AI-enabled ecosystem for creating, signing, and managing legal documents with blockchain-backed verification. LBT is the XRC20 utility token that powers the Law Blocks ecosystem on the XDC Network.",
+      "links": {
+        "website": "https://lawblocks.io/",
+        "whitepaper": "https://www.lawblocks.io/static/media/Law_Blocks_AI_Whitepaper2.645b2f00b99e7711acb5.pdf",
+        "github": "https://github.com/LawBlocks",
+        "twitter": "https://twitter.com/lawblockstoken",
+        "discord": "https://discord.gg/lawblocks",
+        "explorer": "https://xdcscan.com/token/0x05940b2df33d6371201e7ae099ced4c363855dfe"
+      },
+      "contractAddresses": {
+        "50": [
+          {
+            "name": "Law Blocks Token",
+            "address": "0x05940B2dF33D6371201e7Ae099CeD4C363855dFE",
+            "decimals": 18,
+            "symbol": "LBT",
+            "type": "token"
+          }
+        ]
+      },
+      "media": {
+        "brandAssetsURI": "https://github.com/XSwapProtocol/xdc-token-list/tree/master/assets/0x05940B2dF33D6371201e7Ae099CeD4C363855dFE"
+      },
+      "isLaunched": true,
+      "featured": false,
+      "tags": [
+        "legaltech",
+        "ai",
+        "documents",
+        "xdc",
+        "xrc20",
+        "utility"
+      ],
+      "seo": {
+        "title": "Law Blocks - LegalTech on XDC Network",
+        "description": "Law Blocks is a legal-tech ecosystem powered by the LBT token on the XDC Network.",
+        "keywords": "Law Blocks, LBT, XDC Network, legaltech, AI, XRC20",
+        "ogImage": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/0x05940B2dF33D6371201e7Ae099CeD4C363855dFE/logo.png",
+        "ogType": "website",
+        "twitterCard": "summary_large_image",
+        "canonicalUrl": "https://lawblocks.io/",
+        "noindex": false
+      }
+    },
+    {
+      "id": "gama-token",
+      "name": "Gama Token",
+      "symbol": "GAMA",
+      "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/0x3a170C7C987F55C84f28733Bfa27962D8CdD5D3B/logo.png",
+      "shortDescription": "GAMA is the utility token of a Web3 gaming ecosystem on the XDC Network.",
+      "fullDescription": "GAMA is the utility token of the GAMA Web3 gaming platform on the XDC Network. The ecosystem uses GAMA for play-to-earn rewards and token burns inside on-chain games such as dice, flip coin, and roulette-style experiences.",
+      "links": {
+        "website": "https://gamacoin.ai/",
+        "twitter": "https://twitter.com/Gama_Offical",
+        "explorer": "https://xdcscan.com/token/0x3a170c7c987f55c84f28733bfa27962d8cdd5d3b"
+      },
+      "contractAddresses": {
+        "50": [
+          {
+            "name": "Gama Token",
+            "address": "0x3a170C7C987F55C84f28733Bfa27962D8CdD5D3B",
+            "decimals": 18,
+            "symbol": "GAMA",
+            "type": "token"
+          }
+        ]
+      },
+      "media": {
+        "brandAssetsURI": "https://github.com/XSwapProtocol/xdc-token-list/tree/master/assets/0x3a170C7C987F55C84f28733Bfa27962D8CdD5D3B"
+      },
+      "isLaunched": true,
+      "featured": false,
+      "tags": [
+        "gaming",
+        "gamefi",
+        "play-to-earn",
+        "xdc",
+        "xrc20"
+      ],
+      "seo": {
+        "title": "Gama Token - Web3 Gaming on XDC Network",
+        "description": "GAMA is the utility token of a Web3 gaming ecosystem on the XDC Network.",
+        "keywords": "GAMA, Gama Token, XDC Network, Web3 gaming, GameFi, XRC20",
+        "ogImage": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/0x3a170C7C987F55C84f28733Bfa27962D8CdD5D3B/logo.png",
+        "ogType": "website",
+        "twitterCard": "summary_large_image",
+        "canonicalUrl": "https://gamacoin.ai/",
+        "noindex": false
+      }
+    },
+    {
+      "id": "storx",
+      "name": "StorX",
+      "symbol": "SRX",
+      "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/0x5D5f074837f5d4618B3916ba74De1Bf9662a3fEd/logo.png",
+      "shortDescription": "StorX is a decentralized cloud storage network powered by SRX on the XDC Network.",
+      "fullDescription": "StorX is a decentralized cloud storage platform that lets users store data across a distributed network and lets storage providers earn SRX for contributing unused storage capacity. SRX is the token used for payments and incentives in the StorX ecosystem on the XDC Network.",
+      "links": {
+        "website": "https://storx.tech/",
+        "whitepaper": "https://storx.tech/storx_whitepaper_v1.pdf",
+        "github": "https://github.com/StorXNetwork",
+        "twitter": "https://twitter.com/StorXNetwork",
+        "telegram": "https://t.me/StorXNetwork",
+        "medium": "https://medium.com/storx-network",
+        "explorer": "https://xdcscan.com/token/0x5d5f074837f5d4618b3916ba74de1bf9662a3fed"
+      },
+      "contractAddresses": {
+        "50": [
+          {
+            "name": "StorX Token",
+            "address": "0x5D5f074837f5d4618B3916ba74De1Bf9662a3fEd",
+            "decimals": 18,
+            "symbol": "SRX",
+            "type": "token"
+          }
+        ]
+      },
+      "media": {
+        "brandAssetsURI": "https://github.com/XSwapProtocol/xdc-token-list/tree/master/assets/0x5D5f074837f5d4618B3916ba74De1Bf9662a3fEd"
+      },
+      "isLaunched": true,
+      "featured": false,
+      "tags": [
+        "depin",
+        "storage",
+        "cloud-storage",
+        "xdc",
+        "xrc20",
+        "utility"
+      ],
+      "seo": {
+        "title": "StorX - Decentralized Cloud Storage on XDC Network",
+        "description": "StorX is a decentralized cloud storage network powered by SRX on the XDC Network.",
+        "keywords": "StorX, SRX, XDC Network, decentralized storage, DePIN, XRC20",
+        "ogImage": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/0x5D5f074837f5d4618B3916ba74De1Bf9662a3fEd/logo.png",
+        "ogType": "website",
+        "twitterCard": "summary_large_image",
+        "canonicalUrl": "https://storx.tech/",
+        "noindex": false
+      }
+    },
+    {
+      "id": "usdc",
+      "name": "USDC",
+      "symbol": "USDC",
+      "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/0xfA2958CB79b0491CC627c1557F441eF849Ca8eb1/logo.png",
+      "shortDescription": "USDC is Circle's fully reserved US dollar stablecoin available on the XDC Network.",
+      "fullDescription": "USDC is a US dollar-backed stablecoin issued by Circle. On the XDC Network, USDC gives users and applications access to dollar-denominated payments, trading, settlement, and DeFi liquidity. The XDC ecosystem also supports bridged USDC through XSwap's bridge infrastructure for cross-chain transfers.",
+      "links": {
+        "website": "https://www.circle.com/en/usdc",
+        "twitter": "https://twitter.com/circle",
+        "explorer": "https://xdcscan.com/token/0xfa2958cb79b0491cc627c1557f441ef849ca8eb1"
+      },
+      "contractAddresses": {
+        "50": [
+          {
+            "name": "USDC",
+            "address": "0xfA2958CB79b0491CC627c1557F441eF849Ca8eb1",
+            "decimals": 6,
+            "symbol": "USDC",
+            "type": "token"
+          },
+          {
+            "name": "Bridged USDC",
+            "address": "0x2A8E898b6242355c290E1f4Fc966b8788729A4D4",
+            "decimals": 6,
+            "type": "token"
+          }
+        ]
+      },
+      "keyEvents": [
+        {
+          "date": "2025-03-03",
+          "title": "Bridged USDC launched on XDC Network through XSwap",
+          "description": "XSwap Protocol announced Circle's bridged USDC standard on the XDC Network.",
+          "link": "https://xdc.org/articles/xswap-protocol-launches-circles-bridged-usdc-on-xdcs-network"
+        }
+      ],
+      "media": {
+        "brandAssetsURI": "https://github.com/XSwapProtocol/xdc-token-list/tree/master/assets/0xfA2958CB79b0491CC627c1557F441eF849Ca8eb1"
+      },
+      "isLaunched": true,
+      "featured": true,
+      "tags": [
+        "stablecoin",
+        "usdc",
+        "payments",
+        "circle",
+        "xdc",
+        "xrc20"
+      ],
+      "seo": {
+        "title": "USDC on XDC Network",
+        "description": "USDC is Circle's fully reserved US dollar stablecoin available on the XDC Network.",
+        "keywords": "USDC, Circle, XDC Network, stablecoin, XRC20",
+        "ogImage": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/0xfA2958CB79b0491CC627c1557F441eF849Ca8eb1/logo.png",
+        "ogType": "website",
+        "twitterCard": "summary_large_image",
+        "canonicalUrl": "https://www.circle.com/en/usdc",
+        "noindex": false
+      }
+    },
+    {
+      "id": "wanchain-bridged-usdt",
+      "name": "WanBridge Bridged USDT",
+      "symbol": "XUSDT",
+      "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/0xD4B5f10D61916Bd6E0860144a91Ac658dE8a1437/logo.png",
+      "shortDescription": "WanBridge Bridged USDT is a bridged USDT stablecoin on the XDC Network.",
+      "fullDescription": "WanBridge Bridged USDT, commonly shown as xUSDT, is a bridged USDT token on the XDC Network. It is associated with Wanchain bridge infrastructure and is used to bring USDT liquidity into the XDC ecosystem for trading, payments, and DeFi applications.",
+      "links": {
+        "website": "https://wanchain.org/",
+        "github": "https://github.com/wanchain",
+        "twitter": "https://twitter.com/wanchain_org",
+        "explorer": "https://xdcscan.com/token/0xd4b5f10d61916bd6e0860144a91ac658de8a1437"
+      },
+      "contractAddresses": {
+        "50": [
+          {
+            "name": "WanBridge Bridged USDT",
+            "address": "0xD4B5f10D61916Bd6E0860144a91Ac658dE8a1437",
+            "decimals": 6,
+            "symbol": "XUSDT",
+            "type": "token"
+          }
+        ]
+      },
+      "media": {
+        "brandAssetsURI": "https://github.com/XSwapProtocol/xdc-token-list/tree/master/assets/0xD4B5f10D61916Bd6E0860144a91Ac658dE8a1437"
+      },
+      "isLaunched": true,
+      "featured": false,
+      "tags": [
+        "stablecoin",
+        "usdt",
+        "bridge",
+        "wanchain",
+        "xdc",
+        "xrc20"
+      ],
+      "seo": {
+        "title": "WanBridge Bridged USDT on XDC Network",
+        "description": "WanBridge Bridged USDT is a bridged USDT stablecoin on the XDC Network.",
+        "keywords": "xUSDT, XUSDT, Wanchain, XDC Network, USDT, stablecoin, bridge",
+        "ogImage": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/0xD4B5f10D61916Bd6E0860144a91Ac658dE8a1437/logo.png",
+        "ogType": "website",
+        "twitterCard": "summary_large_image",
+        "canonicalUrl": "https://wanchain.org/",
+        "noindex": false
+      }
     }
   ]
 }
