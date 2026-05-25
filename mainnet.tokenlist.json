@@ -3,7 +3,7 @@
   "timestamp": "2025-11-06T19:11:32.219Z",
   "version": {
     "major": 19,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/logo.png",
@@ -259,6 +259,13 @@
       "decimals": 18,
       "symbol": "G$",
       "name": "GoodDollar"
+    },
+    {
+      "chainId": 50,
+      "address": "0x389d77ab796559Df2F96Ebb4310Afd7f16752f3F",
+      "decimals": 18,
+      "symbol": "PMX",
+      "name": "Protein Market X"
     }
   ]
 }
