@@ -2,8 +2,8 @@
   "name": "XRC20 Tokens",
   "timestamp": "2025-11-06T19:11:32.219Z",
   "version": {
-    "major": 19,
-    "minor": 2,
+    "major": 20,
+    "minor": 0,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/logo.png",
@@ -25,39 +25,12 @@
     },
     {
       "chainId": 50,
-      "address": "0x2A8E898b6242355c290E1f4Fc966b8788729A4D4",
-      "name": "Bridged USDC (XDC)",
-      "symbol": "USDC.e",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/0x2A8E898b6242355c290E1f4Fc966b8788729A4D4/logo.png",
-      "tags": ["stable", "usdc"]
-    },
-    {
-      "chainId": 50,
-      "address": "0x17476dc3eda45aD916cEAdDeA325B240A7FB259D",
-      "name": "XSwap Treasury Token",
-      "symbol": "XTT",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/0x17476dc3eda45aD916cEAdDeA325B240A7FB259D/logo.png",
-      "tags": ["farming", "xdcpad", "launchpad"]
-    },
-    {
-      "chainId": 50,
       "address": "0x36726235dAdbdb4658D33E62a249dCA7c4B2bC68",
       "name": "XSP Token",
       "symbol": "XSP",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/0x36726235dAdbdb4658D33E62a249dCA7c4B2bC68/logo.png",
       "tags": ["dex", "swap"]
-    },
-    {
-      "chainId": 50,
-      "address": "0x6168664FFc0a22CC4e9DF7cB7247Dcbb0C066169",
-      "name": "0xFútbol",
-      "symbol": "FUTBOL",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/0x6168664FFc0a22CC4e9DF7cB7247Dcbb0C066169/logo.png",
-      "tags": ["game"]
     },
     {
       "chainId": 50,
@@ -103,13 +76,6 @@
     },
     {
       "chainId": 50,
-      "address": "0x4826634Fe187Ed3FFb64d77c5C1A67Ba49cc03dE",
-      "name": "BlocksWorkz Token",
-      "symbol": "BLKZ",
-      "decimals": 18
-    },
-    {
-      "chainId": 50,
       "address": "0x20B59e6C5DeB7d7cEd2CA823c6Ca81dd3f7e9A3A",
       "name": "Datachain Foundation",
       "symbol": "DC",
@@ -123,13 +89,6 @@
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/0xD4B5f10D61916Bd6E0860144a91Ac658dE8a1437/logo.png",
       "tags": ["wanchain", "stable"]
-    },
-    {
-      "chainId": 50,
-      "address": "0x374a7CE8Fda576a92e3A17c47f47C6B7AEcEF39D",
-      "name": "CHUPACABRA",
-      "symbol": "CHUPA",
-      "decimals": 18
     },
     {
       "chainId": 50,
@@ -153,24 +112,6 @@
       "name": "Crescite",
       "symbol": "CRE",
       "decimals": 18
-    },
-    {
-      "chainId": 50,
-      "address": "0x1eBb2C8a71A9ec59bF558886a8Adf8F4a565814F",
-      "name": "STASIS EURO",
-      "symbol": "EURS",
-      "decimals": 2,
-      "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/0x1eBb2C8a71A9ec59bF558886a8Adf8F4a565814F/logo.png",
-      "tags": ["stable"]
-    },
-    {
-      "chainId": 50,
-      "address": "0x3279dBEfABF3C6ac29d7ff24A6c46645f3F4403c",
-      "decimals": 18,
-      "symbol": "FTHM",
-      "name": "Fathom Protocol Token",
-      "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/0x3279dBEfABF3C6ac29d7ff24A6c46645f3F4403c/logo.png",
-      "tags": ["core"]
     },
     {
       "chainId": 50,
@@ -206,15 +147,6 @@
     },
     {
       "chainId": 50,
-      "address": "0xAec5Eaf63402BF842D8642d917685e5ad3BA14bb",
-      "decimals": 18,
-      "symbol": "EEG",
-      "name": "XDC's EquitEdge",
-      "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/0xAec5Eaf63402BF842D8642d917685e5ad3BA14bb/logo.png",
-      "tags": ["rwa"]
-    },
-    {
-      "chainId": 50,
       "address": "0x2d1C02Cf9e7a1659b82185feF243078BfD237B23",
       "decimals": 18,
       "symbol": "ROXN",
@@ -238,13 +170,6 @@
       "decimals": 18,
       "symbol": "GLL",
       "name": "Growlimitless"
-    },
-    {
-      "chainId": 50,
-      "address": "0x92bb5d72bd65E8BAD36405D7C3D1497015A41160",
-      "decimals": 18,
-      "symbol": "AVR",
-      "name": "Avatar"
     },
     {
       "chainId": 50,
