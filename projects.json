@@ -628,6 +628,75 @@
         "canonicalUrl": "https://wanchain.org/",
         "noindex": false
       }
+    },
+    {
+      "id": "protein-markets",
+      "name": "Protein Markets",
+      "symbol": "PMX",
+      "shortDescription": "Protein Markets is an RWA tokenization project for global protein markets on the XDC Network.",
+      "fullDescription": "Protein Markets is a blockchain-integrated animal protein processing project that launched PMX as a deflationary XRC20 utility token on the XDC Network. The project connects real-world protein production with decentralized finance infrastructure, using a revenue-backed model where a share of gross monthly facility revenue is allocated to PMX buybacks and burns.",
+      "links": {
+        "website": "https://protein.markets/",
+        "twitter": "https://twitter.com/ProteinMarketsX",
+        "telegram": "https://t.me/proteinmarkets",
+        "explorer": "https://xdcscan.com/token/0x389d77ab796559Df2F96Ebb4310Afd7f16752f3F"
+      },
+      "contractAddresses": {
+        "50": [
+          {
+            "name": "Protein Markets Token",
+            "address": "0x389d77ab796559Df2F96Ebb4310Afd7f16752f3F",
+            "decimals": 18,
+            "symbol": "PMX",
+            "type": "token"
+          },
+          {
+            "name": "PMX Presale Contract",
+            "address": "0xc8613bc40DF10e1D99CCe697fb29F6F18Db7B004",
+            "type": "other"
+          }
+        ]
+      },
+      "keyEvents": [
+        {
+          "date": "2026-04-23",
+          "title": "PMX presale launched on XDC Network",
+          "description": "Protein Markets announced the PMX presale and revenue-backed RWA token model on the XDC Network.",
+          "link": "https://www.openpr.com/news/4484604/protein-markets-revenue-backed-rwa-token-model-launches-pmx"
+        },
+        {
+          "date": "2026-05-20",
+          "title": "PMX Presale Started on XDC.sale",
+          "description": "Protein Markets started the presale (IDO) on the XDC Network using the XDC.sale platform.",
+          "link": "https://xdc.sale/presale/0xc8613bc40DF10e1D99CCe697fb29F6F18Db7B004"
+        },
+        {
+          "date": "2026-05-25",
+          "title": "Protein Markets Successfully Completed Its IDO",
+          "description": "Protein Markets successfully completed the IDO and listed the token on the XSwap Protocol.",
+          "link": "https://info.xspswap.finance/#/tokens/0x389d77ab796559df2f96ebb4310afd7f16752f3f"
+        }
+      ],
+      "isLaunched": true,
+      "featured": false,
+      "tags": [
+        "rwa",
+        "protein-markets",
+        "agritech",
+        "deflationary",
+        "xdc",
+        "xrc20",
+        "presale"
+      ],
+      "seo": {
+        "title": "Protein Markets - PMX RWA Token on XDC Network",
+        "description": "Protein Markets is an RWA tokenization project for global protein markets on the XDC Network.",
+        "keywords": "Protein Markets, PMX, XDC Network, RWA, XRC20, agritech, tokenization",
+        "ogType": "website",
+        "twitterCard": "summary",
+        "canonicalUrl": "https://protein.markets/",
+        "noindex": false
+      }
     }
   ]
 }
