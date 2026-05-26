@@ -633,6 +633,7 @@
       "id": "protein-markets",
       "name": "Protein Markets",
       "symbol": "PMX",
+      "logoURI": "https://raw.githubusercontent.com/XSwapProtocol/xdc-token-list/master/assets/0x389d77ab796559Df2F96Ebb4310Afd7f16752f3F/logo.png",
       "shortDescription": "Protein Markets is an RWA tokenization project for global protein markets on the XDC Network.",
       "fullDescription": "Protein Markets is a blockchain-integrated animal protein processing project that launched PMX as a deflationary XRC20 utility token on the XDC Network. The project connects real-world protein production with decentralized finance infrastructure, using a revenue-backed model where a share of gross monthly facility revenue is allocated to PMX buybacks and burns.",
       "links": {
